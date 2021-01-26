@@ -8,6 +8,8 @@ import java.util.Scanner;
  * Contains the game loop and methods for saving and loading the total wins and losses. 
  * @author Will Brown
  * @version 1.0
+ * Project01 - Hangman
+ * Spring 2021
  */
 public class Hangman {
 	

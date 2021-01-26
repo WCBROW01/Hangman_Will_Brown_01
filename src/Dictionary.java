@@ -8,8 +8,9 @@ import java.util.Scanner;
  * Code for loading the dictionary into memory and picking a random word.
  * @author Will Brown
  * @version 1.0
+ * Project01 - Dictionary
+ * Spring 2021
  */
-
 public class Dictionary {
 	
 	private String[] wordList = new String[200];
